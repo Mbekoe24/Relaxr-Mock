@@ -1,0 +1,146 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+  color: white;
+  font-weight: 5rem bold;
+  align-self: flex-start;
+  margin-left: 5rem;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+h1 {
+  color: white;
+  line-height: 14px;
+  margin-top: 7rem;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+h3 {
+  color: #033048;
+  font-weight: 600;
+}
+
+footer {
+  display: flex;
+}
+
+.button1 {
+  background-color: #f9e42e;
+  border: none;
+  color: gray;
+  padding: 15px 32px;
+  padding-right: 50px;
+  padding-left: 50px;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-top: 4rem;
+  font-weight: 800;
+}
+
+.button2 {
+  margin-left: 600px;
+  background-color: #033048;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-top: 3vh;
+  margin-bottom: 2rem;
+  padding-right: 50px;
+  padding-left: 50px;
+  font-weight: 800;
+  border: none;
+}
+.list h3 {
+  font-size: 24px;
+}
+
+.list {
+  margin-left: 5rem;
+  padding-bottom: 3rem;
+  padding-top: 2rem;
+  color: #606161;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.top-headers {
+  background-image: url("../images/header_bg.jpg");
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.wavesbackground {
+  background-image: url("../images/testimonial_bg.jpg");
+  height: 63vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.wavesbackground blockquote {
+  color: white;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  font-style: italic;
+  padding-top: 15vh;
+  opacity: 0.9;
+}
+
+/*footers big border*/
+.border-box {
+  background-color: #f9e42e;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+}
+
+.footerheading {
+  color: #f9e42e;
+  font-size: 30px;
+}
+.divfooter {
+  padding-top: 2rem;
+}
+
+.footer-backgroundcolor {
+  background-color: #41413c;
+  width: 100vw;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footerbottom {
+  color: white;
+  opacity: 0.8;
+  margin-top: 3rem;
+  font-size: 9px;
+}
+
+.socialmedia img:first-of-type {
+  margin-right: 2rem;
+  margin-top: 4rem;
+}
